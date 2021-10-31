@@ -1,12 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-# FoodOrderingBot
-Food Ordering Bot is a React based chatbot that can help be integrated on food ordering apps and websites as a creative substitute to regular form filling methods to place an order.
+# Food Ordering Chatbot
+Food Ordering Chatbot is a React based chatbot that can help be integrated on food ordering apps and websites as a creative substitute to regular form filling methods to place an order.
 
 ## Documentation
-The chatbot is build using [React-chatbot-kit](https://fredrikoseberg.github.io/react-chatbot-kit-docs/) that helps getting started with building chatbots in quick and easy manner.
+The chatbot is build using [React-chatbot-kit](https://fredrikoseberg.github.io/react-chatbot-kit-docs/) that helps getting started with building chatbots in a quick and easy manner.
 
 ## Dependencies Used
 - [react-chatbot-kit](https://www.npmjs.com/package/react-chatbot-kit)
@@ -39,8 +35,12 @@ Start the server
 ```bash
   npm start
 ```
+#Improvements working on
+- Add a 
 
-  
+### Improvements working on
+- Integrate a database to store the order details of customers
+- Add a payment gateway if a customer opts for home delivery
 
-
+Feel free to improve :)
   
