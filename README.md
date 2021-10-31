@@ -35,9 +35,6 @@ Start the server
 ```bash
   npm start
 ```
-#Improvements working on
-- Add a 
-
 ### Improvements working on
 - Integrate a database to store the order details of customers
 - Add a payment gateway if a customer opts for home delivery
