@@ -1,5 +1,5 @@
 # Food Ordering Chatbot
-Food Ordering Chatbot is a React based chatbot that can help be integrated on food ordering apps and websites as a creative substitute to regular form filling methods to place an order.
+Food Ordering Chatbot is a React based chatbot that can be integrated on food ordering apps and websites as a creative substitute to regular form filling methods to place an order.
 
 ## Documentation
 The chatbot is build using [React-chatbot-kit](https://fredrikoseberg.github.io/react-chatbot-kit-docs/) that helps getting started with building chatbots in a quick and easy manner.
